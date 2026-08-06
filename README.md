@@ -1,4 +1,4 @@
-<h2>About Me</h2>
+<center><h2>About Me</h2></center>
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/214374696-9dd6ec4e-bece-43b1-a57e-13b191cf49eb.jpg">
 <ul>
   <li>Hello there! I'm Hadeed Mushtaq </li>
