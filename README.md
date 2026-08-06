@@ -14,7 +14,7 @@
 <h2 align="center">Featured Projects</h2>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hadeed-mushtaq&show_icons=true&theme=github_dark&hide_border=true" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hadeed-mushtaq&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 <h2 align="center">GitHub Streak</h2>
 <p align="center">
