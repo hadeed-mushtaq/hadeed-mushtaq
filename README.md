@@ -24,3 +24,14 @@
   <img src="https://streak-stats.demolab.com?user=hadeed-mushtaq&theme=github-dark&hide_border=true" />
 </p>
 <h2 align="center">Connect With Me</h2>
+<a href="https://www.instagram.com/YOUR-USERNAME">
+  <img src="https://cdn.simpleicons.org/instagram" width="30">
+</a>
+
+<a href="https://www.pinterest.com/YOUR-USERNAME">
+  <img src="https://cdn.simpleicons.org/pinterest" width="30">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-USERNAME">
+  <img src="https://cdn.simpleicons.org/linkedin" width="30">
+</a>
