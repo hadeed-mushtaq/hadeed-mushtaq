@@ -24,14 +24,15 @@
   <img src="https://streak-stats.demolab.com?user=hadeed-mushtaq&theme=github-dark&hide_border=true" />
 </p>
 <h2 align="center">Connect With Me</h2>
+<a href="hadeedmushtaqparimoo@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="30">
+</a>
+<br>
 <a href="https://www.linkedin.com/in/hadeed-mushtaq">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/linkedin" width="30">
 </a>
 <br>
-<a href="https://www.instagram.com/zeninengineer">
-  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/zeninengineer?igsh=MXRvMm56OXFzYXoxNA==">
+  <img src="https://cdn.simpleicons.org/instagram" width="30">
 </a>
-<br>
-<a href="https://www.pinterest.com/hadeedmushtaq">
-  <img src="https://img.shields.io/badge/Pinterest-Profile-BD081C?logo=pinterest&logoColor=white" />
-</a>
+
