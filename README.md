@@ -24,7 +24,7 @@
   <img src="https://streak-stats.demolab.com?user=hadeed-mushtaq&theme=github-dark&hide_border=true" />
 </p>
 <h2 align="center">Connect With Me</h2>
-<a href="mailto:hadeedmushtaqparimoo@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hadeedmushtaqparimoo@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail" width="30">
 </a>
 <br>
